@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nama_rs: MyString
+  alamat_rs: MyString
+  no_telp: 1
+  gol_Apos: 1
+  gol_Bpos: 1
+  gol_Opos: 1
+  gol_ABpos: 1
+  gol_Aneg: 1
+
+two:
+  nama_rs: MyString
+  alamat_rs: MyString
+  no_telp: 1
+  gol_Apos: 1
+  gol_Bpos: 1
+  gol_Opos: 1
+  gol_ABpos: 1
+  gol_Aneg: 1
